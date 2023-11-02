@@ -3,7 +3,9 @@
 
 ## Web Development Skills   
 - Frontend: <img src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> <img src="https://img.shields.io/badge/JAVASCRIPT-323330?logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/REACT-323330?logo=react&logoColor=61DAFB" />  
-- Backend: 
+- Backend: <img src="https://img.shields.io/badge/NODEJS-181717?logo=nodedotjs&logoColor=white&labelColor=339933" /> <img src="https://img.shields.io/badge/EXPRESSJS-181717?logo=express&logoColor=white&labelColor=000000" />  <img src="https://img.shields.io/badge/PYTHON-181717?logo=python&logoColor=white&labelColor=3776AB" /> <img src="https://img.shields.io/badge/FLASK-181717?logo=flask&logoColor=white" />  
+- Databases: <img src="https://img.shields.io/badge/POSTGRESQL-181717?logo=postgresql&logoColor=white&labelColor=4169E1" /> <img src="https://img.shields.io/badge/MONGODB-181717?logo=mongodb&logoColor=white&labelColor=47A248" />  
+- Version Control: <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white" />  
 
 <!--
 **frankie3388/frankie3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
