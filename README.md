@@ -1,4 +1,9 @@
-### Hi there 👋
+# About Me  
+- I'm a dedicated web development enthusiast currently honing my skills at Coder Academy. With a background in Food Technology, I've discovered a profound passion for creating websites and applications. My journey into web development is not just a learning experience, it's a transformative career change I'm eagerly pursuing. I'm excited to merge my past experiences with my newfound skills and embark on a fulfilling journey in the world of web development, where I aspire to create meaningful and user-friendly digital experiences.  
+
+## Web Development Skills   
+- Frontend: <img src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> <img src="https://img.shields.io/badge/JAVASCRIPT-323330?logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/REACT-323330?logo=react&logoColor=61DAFB" />  
+- Backend: 
 
 <!--
 **frankie3388/frankie3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
